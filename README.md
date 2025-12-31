@@ -10,6 +10,8 @@ The project focuses on clean UI, accessibility, and mobile-first design.
 | **Vite**         | Fast development build tool |
 | **HTML5 & CSS3** | Web standards               |
 
+## Live Preview
+https://hope-care.netlify.app/
 
 ## Screenshots
 <img width="2048" height="9182" alt="localhost_5173_" src="https://github.com/user-attachments/assets/5db53349-3056-47e5-bf1d-8bb65f151771" />
